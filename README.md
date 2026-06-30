@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm speakernvrlearn
 
-<!--
-**speakernvrlearn/speakernvrlearn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Penetration Testing & Vulnerability Research. Currently synchronizing foundational architecture theory with hands-on labs.
 
-Here are some ideas to get you started:
+## Activity
+* **Theory:** Vickie Li's *Bug Bounty Bootcamp* (Web infrastructure & application logic)
+* **Practice:** **PortSwigger Web Security Academy** (Active exploitation)
+* **Toolkit:** `Burp Suite` | `Kali Linux` | `hashcat` | `CyberChef`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+* [PortSwigger-Academy-Writeups](https://github.com) – Proof-of-Concepts (PoCs) and technical write-ups.
+* [Pentest-CheatSheets](https://github.com) – Payloads, commands, and automation scripts.
+
